@@ -76,7 +76,6 @@ I build digital solutions that turn business workflows, dashboards, and AI-enabl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 
 ---
-
 ## Featured Project
 
 ### TADAM – AI-Driven Sustainability Platform
@@ -86,7 +85,9 @@ An AI-driven sustainability platform designed to support environmental reporting
 The platform includes mobile reporting, an admin dashboard, reporting workflows, analytics dashboards, AI recycling guidance, duplicate report detection, chatbot support, admin insights, and sustainability scoring.
 
 **Tech Stack:**
-`React Native` · `React` · `Firebase` · `Firestore` · `TensorFlow Lite` · `AI APIs`
+`React Native` · `React` · `Firebase` · `Firestore` · `MobileNetV2` · `TensorFlow Lite` · `AI APIs`
+
+[![View Project](https://img.shields.io/badge/View%20Project-TADAM-0F766E?style=for-the-badge)](https://github.com/LondonAlRd/TADAM-AI-Sustainability-Platform)
 
 ---
 
