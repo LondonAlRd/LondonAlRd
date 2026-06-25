@@ -1,20 +1,14 @@
-<table>
-<tr>
-<td>
+<table> <tr> <td>
 
 <div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0F766E&height=120&section=header" width="100%" /> 
-  <h1 align="center">Hi, I'm Raghad 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0F766E&height=120&section=header" width="100%" />
 
-<h3 align="center">
-Digital Analysis · Digital Transformation · Data-Driven Business Systems
-</h3>
+<h1>Hi, I'm Raghad 👋</h1>
 
-<p align="center">
-I build practical digital solutions that connect business processes, workflow automation, dashboards, and AI-enabled features to solve real operational problems.
-</p>
+<h3>Digital Analysis · Digital Transformation · Data-Driven Business Systems</h3>
+
+<p> I build practical digital solutions that connect business processes, workflow automation, dashboards, and AI-enabled features to solve real operational problems. </p>
 
 </div>
 
@@ -106,9 +100,9 @@ IEEE, 2026
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge)](PUT-YOUR-LINKEDIN-LINK-HERE)
+<br>
 
-</td>
-</tr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=100&section=footer" width="100%" />
-</table>
+
+</td> </tr> </table>
 
