@@ -4,13 +4,19 @@
 
 <div align="center">
 
-# Hi, I'm Raghad 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header" width="100%" />
+</p>
 
-### Computer Information Systems Graduate
+<h1 align="center">Hi, I'm Raghad 👋</h1>
 
-#### Digital Analysis · Digital Transformation · Data-Driven Business Systems
+<h3 align="center">
+Digital Analysis · Digital Transformation · Data-Driven Business Systems
+</h3>
 
+<p align="center">
 I build practical digital solutions that connect business processes, workflow automation, dashboards, and AI-enabled features to solve real operational problems.
+</p>
 
 </div>
 
