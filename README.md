@@ -5,8 +5,7 @@
 <div align="center">
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=120&section=header" width="100%" /></p>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0F766E&height=120&section=header" width="100%" />
 <h1 align="center">Hi, I'm Raghad 👋</h1>
 
 <h3 align="center">
