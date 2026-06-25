@@ -71,7 +71,6 @@ I build digital solutions that turn business workflows, dashboards, and AI-enabl
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 
