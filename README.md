@@ -6,58 +6,36 @@ I’m interested in building practical digital solutions that connect business p
 
 ## About Me
 
-- Fresh CIS graduate from Imam Abdulrahman Bin Faisal University.
-- Interested in Digital Analysis, Business Analysis, Digital Transformation, and Digital Solutions.
-- Hands-on experience with Microsoft Power Platform through CO-OP training in a digital department.
-- Led TADAM, an AI-driven sustainability platform with reporting workflows, analytics dashboards, AI insights, and decision-support features.
-- Co-authored an IEEE-published paper on TADAM.
+* Fresh CIS graduate from Imam Abdulrahman Bin Faisal University.
+* Interested in Digital Analysis, Business Analysis, Digital Transformation, and Digital Solutions.
+* Hands-on experience with Microsoft Power Platform through CO-OP training in a digital department.
+* Led TADAM, an AI-driven sustainability platform with reporting workflows, analytics dashboards, AI insights, and decision-support features.
+* Co-authored an IEEE-published paper on TADAM.
 
 ## What I Focus On
 
-- Digital Analysis
-- Business Analysis
-- Digital Transformation
-- Workflow Automation
-- Process Improvement
-- Dashboard Design
-- Data-Driven Business Systems
-- AI-enabled Business Applications
+* Digital Analysis
+* Business Analysis
+* Digital Transformation
+* Workflow Automation
+* Process Improvement
+* Dashboard Design
+* Data-Driven Business Systems
+* AI-enabled Business Applications
 
 ## Skills
 
-### Data & Analysis
-- Data Analysis
-- Data Visualization
-- Dashboard Design
-- Reporting
-- System Analysis
-- Process Optimization
+**Data & Analysis**
+Data Analysis · Data Visualization · Dashboard Design · Reporting · System Analysis · Process Optimization
 
-### Business & Digital Solutions
-- Business Requirements
-- Workflow Automation
-- Digital Transformation
-- Process Improvement
-- Documentation
-- User-Centered Solution Design
+**Business & Digital Solutions**
+Business Requirements · Workflow Automation · Digital Transformation · Process Improvement · Documentation · User-Centered Solution Design
 
-### Platforms & Tools
-- Power Apps
-- Power Automate
-- Dataverse
-- SharePoint
-- Microsoft Excel
-- Microsoft 365
+**Platforms & Tools**
+Power Apps · Power Automate · Dataverse · SharePoint · Microsoft Excel · Microsoft 365
 
-### Development & Databases
-- React Native
-- React
-- Firebase
-- Firestore
-- MySQL
-- SQL
-- JavaScript
-- Python
+**Development & Databases**
+React Native · React · Firebase · Firestore · MySQL · SQL · JavaScript · Python
 
 ## Featured Project
 
@@ -67,14 +45,14 @@ An AI-driven sustainability platform designed to support environmental reporting
 
 The platform includes a mobile app, admin dashboard, reporting workflows, analytics dashboards, AI recycling guidance, duplicate report detection, chatbot support, admin insights, and sustainability scoring.
 
-**Tech Stack:** React Native, React, Firebase, Firestore, TensorFlow Lite, AI APIs
+**Tech Stack:** React Native · React · Firebase · Firestore · TensorFlow Lite · AI APIs
 
 ## Publication
 
 **TADAM: An Artificial Intelligence Based Sustainability Assessment Framework with Community Engagement**
-
 IEEE, 2026
 
 ## Connect
 
 LinkedIn: add your LinkedIn link here
+
