@@ -5,7 +5,8 @@
 <div align="center">
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=120&section=header" width="100%" />  <h1 align="center">Hi, I'm Raghad 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0F766E&height=120&section=header" width="100%" /> 
+  <h1 align="center">Hi, I'm Raghad 👋</h1>
 
 <h3 align="center">
 Digital Analysis · Digital Transformation · Data-Driven Business Systems
@@ -108,5 +109,6 @@ IEEE, 2026
 
 </td>
 </tr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=100&section=footer" width="100%" />
 </table>
 
