@@ -2,13 +2,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0F766E&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0F766E&height=70&section=header" width="100%" />
 
 <h1>Hi, I'm Raghad 👋</h1>
 
-<h3>Digital Analysis · Digital Transformation · Data-Driven Business Systems</h3>
+<h3>Digital Analysis · Digital Transformation · Business Systems</h3>
 
-<p> I build practical digital solutions that connect business processes, workflow automation, dashboards, and AI-enabled features to solve real operational problems. </p>
+<p>
+I build digital solutions that turn business workflows, dashboards, and AI-enabled features into practical systems.
+</p>
 
 </div>
 
