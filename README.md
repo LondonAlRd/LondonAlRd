@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0F766E&height=70&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=0F766E&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Raghad+%F0%9F%91%8B;Digital+Analysis+%7C+Digital+Transformation;Power+Platform+%7C+Tech-Enabled+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Raghad+%F0%9F%91%8B;Digital+Analysis+%7C+Digital+Transformation;Power+Platform+%7C+Tech-Enabled+Solutions" alt="Typing SVG" />
 
 <h3>Digital Analysis · Digital Transformation · Business Systems</h3>
 
@@ -30,8 +30,8 @@ I build digital solutions that turn business workflows, dashboards, and AI-enabl
 
 <div align="center">
 
-`Digital Analysis` · `Business Analysis` · `Digital Transformation` · `Workflow Automation`
-`Process Improvement` · `Dashboard Design` · `Data-Driven Systems` · `AI-enabled Applications`
+`Digital Analysis` · `Business Analysis` · `Digital Transformation` · `Power Platform`  
+`Workflow Automation` · `Dashboard Design` · `Data-Driven Systems` · `Tech-Enabled Applications`
 
 </div>
 
@@ -92,16 +92,16 @@ The platform includes mobile reporting, an admin dashboard, reporting workflows,
 
 ## Publication
 
-[![IEEE Paper](https://img.shields.io/badge/IEEE-Published%20Paper-00629B?style=for-the-badge)](PUT-YOUR-PAPER-LINK-HERE)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Published%20Paper-00629B?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11542640)
 
-**TADAM: An Artificial Intelligence Based Sustainability Assessment Framework with Community Engagement**
-IEEE, 2026
+**TADAM: An Artificial Intelligence Based Sustainability Assessment Framework with Community Engagement**  
+*IEEE, 2026*
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge)](PUT-YOUR-LINKEDIN-LINK-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/raghadmohammedd/)
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=100&section=footer" width="100%" />
