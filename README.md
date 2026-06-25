@@ -7,22 +7,36 @@ I have hands-on experience with Microsoft Power Platform, including Power Apps, 
 I also worked on TADAM, an AI-driven sustainability platform featuring a mobile app, admin dashboard, analytics, report management, AI insights, and recycling guidance.
 
 ## Currently focused on
+
 - Digital Solutions
 - Digital Transformation
 - Business Analysis
 - Power Platform
 - Process Automation
-- AI-enabled business applications
+- AI-enabled Business Applications
 
-## Technical Skills
+## Skills Overview
+
+### Power Platform
 - Power Apps
 - Power Automate
 - Dataverse
+- SharePoint
+- Microsoft 365
+
+### Development
 - React Native
 - React
 - Firebase
 - SQL
-- Microsoft 365
+- JavaScript
+
+### Business & Analysis
+- Business Process Analysis
+- Requirements Gathering
+- Documentation
+- Workflow Design
+- Dashboard & Reporting Concepts
 
 ## Featured Projects
 
@@ -35,21 +49,6 @@ TADAM was published as an IEEE research paper:
 
 **TADAM: An Artificial Intelligence Based Sustainability Assessment Framework with Community Engagement.**
 
-## Connect
+## Connect with Me
 
 LinkedIn: add your LinkedIn link here
-
-<!--
-**LondonAlRd/LondonAlRd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
