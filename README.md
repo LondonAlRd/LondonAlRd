@@ -12,6 +12,10 @@ I build practical digital solutions that connect business processes, workflow au
 
 ---
 
+<table>
+<tr>
+<td>
+
 ## About Me
 
 * Fresh Computer Information Systems graduate from **Imam Abdulrahman Bin Faisal University**.
@@ -20,18 +24,26 @@ I build practical digital solutions that connect business processes, workflow au
 * Led **TADAM**, an AI-driven sustainability platform with reporting workflows, analytics dashboards, AI insights, and decision-support features.
 * Co-authored an **IEEE-published paper** on TADAM.
 
----
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ## Focus Areas
-
-<div align="center">
 
 `Digital Analysis` · `Business Analysis` · `Digital Transformation` · `Workflow Automation`
 `Process Improvement` · `Dashboard Design` · `Data-Driven Systems` · `AI-enabled Applications`
 
-</div>
+</td>
+</tr>
+</table>
 
----
+<table>
+<tr>
+<td>
 
 ## Skills
 
@@ -58,7 +70,6 @@ I build practical digital solutions that connect business processes, workflow au
 ![Dataverse](https://img.shields.io/badge/Dataverse-088142?style=for-the-badge)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge)
 
 ### Development & Databases
 
@@ -66,12 +77,17 @@ I build practical digital solutions that connect business processes, workflow au
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 
----
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ## Featured Project
 
@@ -79,32 +95,38 @@ I build practical digital solutions that connect business processes, workflow au
 
 An AI-driven sustainability platform designed to support environmental reporting, sustainability assessment, community engagement, analytics, and decision-making.
 
-The platform includes:
-
-* Mobile app
-* Admin dashboard
-* Reporting workflows
-* Analytics dashboards
-* AI recycling guidance
-* Duplicate report detection
-* Chatbot support
-* Admin insights
-* Sustainability scoring
+The platform includes mobile reporting, an admin dashboard, reporting workflows, analytics dashboards, AI recycling guidance, duplicate report detection, chatbot support, admin insights, and sustainability scoring.
 
 **Tech Stack:**
 `React Native` · `React` · `Firebase` · `Firestore` · `TensorFlow Lite` · `AI APIs`
 
----
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ## Publication
 
-**TADAM: An Artificial Intelligence Based Sustainability Assessment Framework with Community Engagement**
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Published%20Paper-00629B?style=for-the-badge)](PUT-YOUR-PAPER-LINK-HERE)
+
+**TADAM: An Artificial Intelligence Based Sustainability Assessment Framework with Community Engagement**  
 IEEE, 2026
 
----
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge)](add-your-linkedin-link-here)
 
-</div>
+</td>
+</tr>
+</table>
