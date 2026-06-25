@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0F766E&height=70&section=header" width="100%" />
 
-<h1>Hi, I'm Raghad 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=800&color=0F766E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Raghad+%F0%9F%91%8B;Digital+Solutions+Builder;CIS+Graduate" alt="Typing SVG" />
 
 <h3>Digital Analysis · Digital Transformation · Business Systems</h3>
 
