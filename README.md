@@ -90,6 +90,20 @@ The platform includes mobile reporting, an admin dashboard, reporting workflows,
 
 ---
 
+## Data Analytics Project
+
+### Superstore Sales & Profit Analytics Dashboard
+
+An interactive Power BI dashboard designed to analyze sales performance, profitability, regional trends, monthly sales patterns, and loss-making sub-categories using KPI cards, slicers, DAX measures, and business insights.
+
+**Tools & Skills:** `Power BI` · `DAX` · `Data Visualization` · `Business Analysis` · `KPI Analysis`
+
+<a href="https://github.com/LondonAlRd/superstore-sales-profit-dashboard">
+  <img src="https://img.shields.io/badge/VIEW PROJECT-Superstore Dashboard-0F766E?style=for-the-badge" />
+</a>
+
+---
+
 ## Publication
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Published%20Paper-00629B?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11542640)
