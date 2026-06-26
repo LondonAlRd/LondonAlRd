@@ -90,7 +90,7 @@ The platform includes mobile reporting, an admin dashboard, reporting workflows,
 
 ---
 
-## Data Analytics Project
+## Business Analytics Project
 
 ### Superstore Sales & Profit Analytics Dashboard
 
